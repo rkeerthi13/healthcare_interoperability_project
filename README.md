@@ -58,7 +58,6 @@ This repository contains the complete work for the **Healthcare Interoperability
    - **Summary**: Demonstrated real-time data exchange:
      - **System A**: Posted JSON data to OpenMRS via REST API and verified updates in the UI.
      - **System B**: Transformed retrieved data into XML for Surescripts and validated receipt.
-   - **Note**: No additional files were generated for this sprint as it focused on implementation and demonstration.
 
 ---
 
