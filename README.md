@@ -100,4 +100,5 @@ This repository contains the complete work for the **Healthcare Interoperability
 
 For questions or suggestions, contact:  
 **Keerthika Sunchu** - [ksunchu@iu.edu](mailto:ksunchu@iu.edu)
+**Ramya Keerthi Majji**- [rmajji@iu.edu]
 
